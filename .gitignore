@@ -1,0 +1,6 @@
+.my-config.tf.swo
+.my-variables.tfvars.swp
+.terraform.lock.hcl
+.terraform
+.gitignore.swp
+
